@@ -1,14 +1,4 @@
 ---
-title: "Jerry's Castle"
+title: "Your blog post title!"
 date: 2022-06-25
-author: "JuicyJerry"
-email: "ljh8842@gmail.com"
-description: > # Hello there. I'm Jerry. As Front Developer, I'll do my best to manage blog for studying development.
-
-# social links
-twitter_username: not yet
-github_username:  https://github.com/JuicyJerry
-
-show_excerpts: true # set to false to remove excerpts on the homepage
-theme: minima
 ---
