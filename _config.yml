@@ -1,11 +1,4 @@
 ---
-title: "Your blog post title"
-date: YYYY-MM-DD
----
----
-title: "Jerry's Castle"
-date: 2022-06-25
----
 title: Jerry's Castle
 author: JuicyJerry
 email: ljh8842@gmail.com
@@ -17,3 +10,4 @@ github_username:  https://github.com/JuicyJerry
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 theme: minima
+---
